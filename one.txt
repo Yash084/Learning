@@ -1,3 +1,5 @@
 Firts commit for master branch
 
 Now new lines are added for second commit 
+
+adding new branch code after second commit
