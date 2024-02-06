@@ -1,6 +1,3 @@
 Firts commit for master branch
 
 Now new lines are added for second commit 
-
-
-New lines are added for third commit
