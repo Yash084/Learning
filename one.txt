@@ -3,3 +3,8 @@ Firts commit for master branch
 Now new lines are added for second commit 
 
 adding new branch code after second commit
+
+adding further code to new branch for next commit
+
+
+adding final changes and will merge to main branch
